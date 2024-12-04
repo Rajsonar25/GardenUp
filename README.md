@@ -1,6 +1,6 @@
 # Garden Up
 
-## Project link - [*Garden Up*](https://gardenupbymaudi.netlify.app/)
+## Project link - [*Garden Up*](https://gardenupforsure.netlify.app/)
 
 Garden Up is a comprehensive platform designed for plant lovers. This application allows users to explore various types of plants, access helpful blogs, and utilize features like feedback and Google forms for inquiries. We sell all types of plants here, making it a one-stop shop for gardening enthusiasts.
 
